@@ -18,7 +18,7 @@ const LastBookingDetails = (props) => {
     <div className="last_booking_details_container_main">
       <h2 className="last_booking_details_header">Last Booking Details:</h2>
       {lastBookingDetails ? (
-        // this will show the last booking details if avalible
+        // this will show the last booking details if available
         <>
           <div className="seats_container">
             <p className="seats_header">Seats:</p>
@@ -43,7 +43,7 @@ const LastBookingDetails = (props) => {
           </p>
         </>
       ) : (
-        // display the message if the last boking details are not avaliable
+        // display the message if the last booking details are not available
         <p className="no_previous_booking_msg">No Previous Booking Found!</p>
       )}
     </div>

@@ -4,7 +4,7 @@ import { slots } from "../../data";
 import "../styles/movieTiming.css";
 import BsContext from "../../context/Context";
 
-const TimeShedule = () => {
+const TimeSchedule = () => {
   const context = useContext(BsContext);
 
   const { time, changeTime } = context;
@@ -37,4 +37,4 @@ const TimeShedule = () => {
   );
 };
 
-export default TimeShedule;
+export default TimeSchedule;

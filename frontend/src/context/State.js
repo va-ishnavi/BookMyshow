@@ -19,7 +19,7 @@ const BsState = (props) => {
 
   const handlePostBooking = async () => {
     try {
-      const response = await axios.post(`https://bookmyshow-a36r.onrender.com/api/booking/`, {
+      const response = await axios.post(``, {
         movie: movie,
         slot: time,
         seats: noOfSeat,
