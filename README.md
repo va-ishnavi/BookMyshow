@@ -1,15 +1,13 @@
 # Movie ticket booking
 # Running the Application Locally (Frontend)
-1. Clone the Repository:
-   git clone https: https://github.com/va-ishnavi/Bookmyshow
-2. Navigate to the project directory and install the required 
-   dependencies using npm or yarn:
-   cd frontend
-3. Install the dependencies:
-   npm install
-4. Run the Application: 
-   npm run start
-5. Access the application by visiting http://localhost:3000/.
+1. Clone the Repository: git clone https: https://github.com/va-ishnavi/Bookmyshow
+3. Navigate to the project directory and install the required dependencies using npm or yarn:
+   ### cd frontend
+4. Install the dependencies:
+   ### npm install
+5. Run the Application: 
+   ### npm run start
+6. Access the application by visiting http://localhost:3000/.
    
 # Running the Application Locally (Backend)
 1. Clone the Repository:
