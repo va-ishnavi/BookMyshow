@@ -18,7 +18,7 @@
 4. Run the Application: 
    ### npm run dev
 ## Demo Links:
-Frontend:
+Frontend: https://bookmyshow10.netlify.app/
 
 Backend: https://bookmyshow-a36r.onrender.com/api/booking
    
